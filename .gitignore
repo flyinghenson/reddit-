@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+exports/
+*.csv
+*.csv.gz
+state.json
+seen_posts.txt
+seen_comments.txt
+todo_posts.jsonl
+

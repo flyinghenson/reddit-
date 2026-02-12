@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reddit-scene-crawler"
+version = "0.1.0"
+description = "Crawl Reddit posts and comments for a Chinese scene description (CSV + incremental resume)."
+requires-python = ">=3.10"
+dependencies = [
+  "httpx>=0.27.0",
+  "python-dotenv>=1.0.0",
+  "openai>=1.51.0",
+  "pandas>=2.2.0",
+  "scikit-learn>=1.5.0",
+  "reportlab>=4.2.0",
+  "tqdm>=4.66.0",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
