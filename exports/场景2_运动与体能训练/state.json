@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "scene_id": "baa03354",
+  "scene_description": "运动与体能训练",
+  "updated_at_iso": "2026-02-11T09:13:11.882554+00:00",
+  "processed_post_ids": [],
+  "keyword_progress": {
+    "workout recovery": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "post workout recovery": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "muscle soreness": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "DOMS recovery": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "strength training": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "hypertrophy": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "cardio endurance": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "improve endurance": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "running stamina": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "zone 2 training": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "HIIT": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "overtraining": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "training fatigue": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "lifting plateau": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "progressive overload": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "rest day": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "deload week": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "injury prevention": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "knee pain running": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "shoulder pain lifting": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "mobility routine": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "stretching vs mobility": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "warm up routine": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "protein intake": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "creatine": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "electrolytes workout": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "pre workout": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "pre workout without caffeine": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "sleep and recovery": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "heart rate training": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    }
+  }
+}

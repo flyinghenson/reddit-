@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "scene_id": "2266d199",
+  "scene_description": "慢性病或健康问题管理",
+  "updated_at_iso": "2026-02-11T09:20:48.167075+00:00",
+  "processed_post_ids": [],
+  "keyword_progress": {
+    "chronic fatigue": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "chronic fatigue syndrome": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "long covid": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "long covid fatigue": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "fibromyalgia": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "chronic pain": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "pain management": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "autoimmune disease fatigue": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "inflammation": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "hypothyroid fatigue": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "thyroid fatigue": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "diabetes management": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "blood sugar crash": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "blood sugar spikes": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "insulin resistance fatigue": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "IBS": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "IBS management": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "migraine": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "migraine triggers": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "hypertension lifestyle": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "high blood pressure lifestyle": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "POTS fatigue": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "brain fog chronic illness": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "managing chronic illness": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "managing symptoms while working": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "fatigue and sleep": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "pain and sleep": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "flare up management": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "medical gaslighting chronic illness": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "chronic illness support": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    }
+  }
+}

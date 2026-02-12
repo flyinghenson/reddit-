@@ -1,0 +1,2321 @@
+{
+  "scene_taxonomy_version": "v1",
+  "generated_at": "2026-02-11T18:01:55",
+  "categories": [
+    {
+      "name": "cognition",
+      "keywords": [
+        {
+          "canonical": "don t know",
+          "variants": [
+            "dont know",
+            "don know",
+            "don t really know"
+          ],
+          "note": "Uncertainty or lack of understanding about a situation or cause."
+        },
+        {
+          "canonical": "don t think",
+          "variants": [
+            "dont think",
+            "don think",
+            "i don think"
+          ],
+          "note": "Disagreement, doubt, or disbelief about a claim or interpretation."
+        },
+        {
+          "canonical": "don t want",
+          "variants": [
+            "dont want",
+            "don want",
+            "doesn t want"
+          ],
+          "note": "Stated lack of desire or motivation toward an option or outcome."
+        },
+        {
+          "canonical": "understand situation",
+          "variants": [
+            "understand",
+            "understand it",
+            "understand the situation"
+          ],
+          "note": "Expressing comprehension or trying to make sense of events."
+        },
+        {
+          "canonical": "reason why",
+          "variants": [
+            "reason",
+            "the reason",
+            "reason for this"
+          ],
+          "note": "Attributing causes or justifications for what happened."
+        },
+        {
+          "canonical": "cause of problem",
+          "variants": [
+            "cause",
+            "causes",
+            "cause of this"
+          ],
+          "note": "Beliefs about what is driving an issue or symptom."
+        },
+        {
+          "canonical": "makes sense",
+          "variants": [
+            "sense",
+            "that makes sense",
+            "doesn t make sense"
+          ],
+          "note": "Judging coherence or logic of explanations or behavior."
+        },
+        {
+          "canonical": "believe something",
+          "variants": [
+            "believe",
+            "i believe",
+            "can t believe"
+          ],
+          "note": "Stated beliefs or convictions about people, events, or mechanisms."
+        },
+        {
+          "canonical": "true or not",
+          "variants": [
+            "true",
+            "not true",
+            "actually true"
+          ],
+          "note": "Evaluating truthfulness or accuracy of claims."
+        },
+        {
+          "canonical": "based on experience",
+          "variants": [
+            "based",
+            "based on",
+            "based on my experience"
+          ],
+          "note": "Reasoning from prior personal or observed experiences."
+        },
+        {
+          "canonical": "tradeoff work and life",
+          "variants": [
+            "work life",
+            "work life balance",
+            "life and work"
+          ],
+          "note": "Cognitive framing of balance between job demands and personal life."
+        },
+        {
+          "canonical": "mental load",
+          "variants": [
+            "mental",
+            "mental load",
+            "mental energy"
+          ],
+          "note": "Understanding of cognitive burden or invisible planning work."
+        },
+        {
+          "canonical": "health as issue",
+          "variants": [
+            "health",
+            "health issue",
+            "health problems"
+          ],
+          "note": "Attributing difficulties to physical or mental health factors."
+        },
+        {
+          "canonical": "stress as cause",
+          "variants": [
+            "stress",
+            "stressed",
+            "stressful"
+          ],
+          "note": "Seeing stress as a driver of behavior, conflict, or symptoms."
+        },
+        {
+          "canonical": "normal or not",
+          "variants": [
+            "normal",
+            "not normal",
+            "is this normal"
+          ],
+          "note": "Judging whether experiences or behaviors are typical or acceptable."
+        },
+        {
+          "canonical": "issue or problem",
+          "variants": [
+            "issue",
+            "issues",
+            "problem",
+            "problems"
+          ],
+          "note": "Labeling something as a difficulty that needs addressing."
+        },
+        {
+          "canonical": "worse over time",
+          "variants": [
+            "worse",
+            "getting worse"
+          ],
+          "note": "Perception that a situation or symptom is deteriorating."
+        },
+        {
+          "canonical": "better over time",
+          "variants": [
+            "better",
+            "getting better"
+          ],
+          "note": "Perception that a situation or symptom is improving."
+        },
+        {
+          "canonical": "long term vs short term",
+          "variants": [
+            "long term",
+            "short term",
+            "years",
+            "months"
+          ],
+          "note": "Thinking in terms of time horizons and lasting consequences."
+        },
+        {
+          "canonical": "possible explanation",
+          "variants": [
+            "possible",
+            "likely",
+            "probably",
+            "maybe"
+          ],
+          "note": "Tentative hypotheses or probabilistic reasoning about causes."
+        },
+        {
+          "canonical": "point of view",
+          "variants": [
+            "point",
+            "point is",
+            "from my point"
+          ],
+          "note": "Stating or defending a particular perspective or argument."
+        },
+        {
+          "canonical": "meaning of actions",
+          "variants": [
+            "mean",
+            "means",
+            "what it means"
+          ],
+          "note": "Interpreting the significance or intent behind behavior."
+        },
+        {
+          "canonical": "value or worth",
+          "variants": [
+            "worth",
+            "worth it",
+            "not worth it"
+          ],
+          "note": "Cost benefit or value judgments about choices."
+        },
+        {
+          "canonical": "control over situation",
+          "variants": [
+            "control",
+            "under control",
+            "out of control"
+          ],
+          "note": "Beliefs about agency and ability to influence outcomes."
+        },
+        {
+          "canonical": "hope for change",
+          "variants": [
+            "hope",
+            "hopefully"
+          ],
+          "note": "Expectations or optimism about future improvement."
+        },
+        {
+          "canonical": "fair or unfair",
+          "variants": [
+            "wrong",
+            "right",
+            "isn t right",
+            "unfair"
+          ],
+          "note": "Moral or fairness evaluations of events or treatment."
+        },
+        {
+          "canonical": "advice seeking",
+          "variants": [
+            "advice",
+            "any advice",
+            "looking for advice"
+          ],
+          "note": "Cognitive stance of uncertainty plus openness to guidance."
+        },
+        {
+          "canonical": "remembering events",
+          "variants": [
+            "remember",
+            "remembered",
+            "remembering"
+          ],
+          "note": "Recollection used to interpret current situation."
+        },
+        {
+          "canonical": "experience as evidence",
+          "variants": [
+            "experience",
+            "experienced",
+            "my experience"
+          ],
+          "note": "Using personal or others’ experiences to support claims."
+        },
+        {
+          "canonical": "issue with money",
+          "variants": [
+            "money",
+            "paid",
+            "pay",
+            "payment"
+          ],
+          "note": "Thinking about financial constraints, obligations, or fairness."
+        },
+        {
+          "canonical": "job expectations",
+          "variants": [
+            "job",
+            "work",
+            "working",
+            "works"
+          ],
+          "note": "Beliefs about what is required or reasonable at work."
+        },
+        {
+          "canonical": "family responsibility beliefs",
+          "variants": [
+            "family",
+            "parents",
+            "children",
+            "kids"
+          ],
+          "note": "Norms and expectations around family roles and duties."
+        },
+        {
+          "canonical": "relationship norms",
+          "variants": [
+            "relationship",
+            "husband",
+            "wife",
+            "partner"
+          ],
+          "note": "Beliefs about how partners should act or support each other."
+        },
+        {
+          "canonical": "self perception",
+          "variants": [
+            "self",
+            "who i am"
+          ],
+          "note": "Cognitive view of one’s own identity or character."
+        },
+        {
+          "canonical": "mental health framing",
+          "variants": [
+            "adhd",
+            "mental health",
+            "brain",
+            "mind"
+          ],
+          "note": "Attributing behavior or struggles to mental health or neurotype."
+        },
+        {
+          "canonical": "cause is caffeine",
+          "variants": [
+            "caffeine",
+            "coffee"
+          ],
+          "note": "Belief that caffeine intake explains feelings or performance."
+        },
+        {
+          "canonical": "blood sugar explanation",
+          "variants": [
+            "sugar",
+            "blood sugar"
+          ],
+          "note": "Attributing fatigue or mood to sugar or glucose swings."
+        },
+        {
+          "canonical": "crash after activity",
+          "variants": [
+            "crash",
+            "energy crash"
+          ],
+          "note": "Understanding sudden fatigue as a rebound from stimulation."
+        },
+        {
+          "canonical": "time of day effects",
+          "variants": [
+            "morning",
+            "afternoon",
+            "night",
+            "late",
+            "early"
+          ],
+          "note": "Belief that symptoms or productivity depend on time of day."
+        },
+        {
+          "canonical": "low energy explanation",
+          "variants": [
+            "low",
+            "low energy",
+            "energy"
+          ],
+          "note": "Framing problems as due to insufficient energy or stamina."
+        },
+        {
+          "canonical": "brain fog concept",
+          "variants": [
+            "brain",
+            "mental fatigue"
+          ],
+          "note": "Understanding cognitive slowness or confusion as brain fog."
+        },
+        {
+          "canonical": "fatigue as symptom",
+          "variants": [
+            "fatigue",
+            "tiredness"
+          ],
+          "note": "Seeing tiredness as a primary symptom needing explanation."
+        },
+        {
+          "canonical": "support expectations",
+          "variants": [
+            "support",
+            "supportive"
+          ],
+          "note": "Beliefs about how much help or backing one should receive."
+        },
+        {
+          "canonical": "law and rules",
+          "variants": [
+            "law",
+            "legal",
+            "illegal"
+          ],
+          "note": "Reasoning in terms of formal rules or legal constraints."
+        },
+        {
+          "canonical": "company responsibility",
+          "variants": [
+            "company",
+            "office",
+            "team"
+          ],
+          "note": "Beliefs about organizational duties and culture."
+        },
+        {
+          "canonical": "worldview",
+          "variants": [
+            "world",
+            "the world",
+            "society"
+          ],
+          "note": "Broad beliefs about how the world or society works."
+        },
+        {
+          "canonical": "political framing",
+          "variants": [
+            "trump",
+            "state",
+            "market"
+          ],
+          "note": "Interpreting issues through a political or economic lens."
+        },
+        {
+          "canonical": "cause is adhd",
+          "variants": [
+            "adhd",
+            "adhd brain"
+          ],
+          "note": "Attributing patterns to attention deficit or neurodivergence."
+        },
+        {
+          "canonical": "doctor knows best",
+          "variants": [
+            "doctor",
+            "dr",
+            "medical professional"
+          ],
+          "note": "Belief in or questioning of medical authority."
+        },
+        {
+          "canonical": "online consensus",
+          "variants": [
+            "reddit",
+            "comments",
+            "comment section"
+          ],
+          "note": "Using online community opinion as a guide or evidence."
+        },
+        {
+          "canonical": "hope for support",
+          "variants": [
+            "hope someone",
+            "hope you",
+            "hope they"
+          ],
+          "note": "Expectation that others will help or validate."
+        },
+        {
+          "canonical": "imagining scenarios",
+          "variants": [
+            "imagine",
+            "imagination"
+          ],
+          "note": "Using hypothetical scenarios to reason about choices."
+        },
+        {
+          "canonical": "fact vs opinion",
+          "variants": [
+            "fact",
+            "in fact",
+            "actually"
+          ],
+          "note": "Distinguishing objective facts from subjective views."
+        },
+        {
+          "canonical": "identity as parent",
+          "variants": [
+            "mom",
+            "mother",
+            "dad",
+            "father",
+            "parent"
+          ],
+          "note": "Cognitive framing of self primarily through parenting role."
+        }
+      ]
+    },
+    {
+      "name": "feeling",
+      "keywords": [
+        {
+          "canonical": "feel tired",
+          "variants": [
+            "tired",
+            "so tired",
+            "feeling tired"
+          ],
+          "note": "Subjective sense of exhaustion or low physical energy."
+        },
+        {
+          "canonical": "feel fatigue",
+          "variants": [
+            "fatigue",
+            "fatigued"
+          ],
+          "note": "Ongoing or chronic tiredness beyond normal sleepiness."
+        },
+        {
+          "canonical": "feel happy",
+          "variants": [
+            "happy",
+            "glad"
+          ],
+          "note": "Positive mood, contentment, or relief."
+        },
+        {
+          "canonical": "feel love",
+          "variants": [
+            "love",
+            "i love",
+            "loving"
+          ],
+          "note": "Affection or strong positive emotional attachment."
+        },
+        {
+          "canonical": "feel hate",
+          "variants": [
+            "hate",
+            "i hate",
+            "hating"
+          ],
+          "note": "Strong dislike, resentment, or anger."
+        },
+        {
+          "canonical": "feel stressed",
+          "variants": [
+            "stressed",
+            "stressful",
+            "under stress"
+          ],
+          "note": "Emotional strain or pressure from demands."
+        },
+        {
+          "canonical": "feel anxious",
+          "variants": [
+            "anxious",
+            "anxiety",
+            "worried"
+          ],
+          "note": "Nervousness or worry about situations or outcomes."
+        },
+        {
+          "canonical": "feel bad",
+          "variants": [
+            "bad",
+            "feel bad",
+            "felt bad"
+          ],
+          "note": "General negative emotional state or guilt."
+        },
+        {
+          "canonical": "feel good",
+          "variants": [
+            "good",
+            "feels good",
+            "feeling good"
+          ],
+          "note": "General positive emotional or physical state."
+        },
+        {
+          "canonical": "feel awful",
+          "variants": [
+            "shit",
+            "shitty",
+            "feel like shit"
+          ],
+          "note": "Very negative emotional or physical state."
+        },
+        {
+          "canonical": "feel angry",
+          "variants": [
+            "fuck",
+            "fucking pissed",
+            "angry"
+          ],
+          "note": "Irritation, rage, or frustration directed at someone or something."
+        },
+        {
+          "canonical": "feel sad",
+          "variants": [
+            "sad",
+            "upset"
+          ],
+          "note": "Low mood, disappointment, or emotional pain."
+        },
+        {
+          "canonical": "feel guilty",
+          "variants": [
+            "guilty",
+            "feel guilty",
+            "sorry"
+          ],
+          "note": "Regret or self blame about actions or inaction."
+        },
+        {
+          "canonical": "feel relieved",
+          "variants": [
+            "relieved",
+            "so relieved"
+          ],
+          "note": "Release of tension after a feared outcome doesn’t occur."
+        },
+        {
+          "canonical": "feel overwhelmed",
+          "variants": [
+            "overwhelmed",
+            "too much",
+            "can t handle"
+          ],
+          "note": "Feeling unable to cope with demands or emotions."
+        },
+        {
+          "canonical": "feel motivated",
+          "variants": [
+            "motivated",
+            "driven"
+          ],
+          "note": "Desire and energy to take action or pursue goals."
+        },
+        {
+          "canonical": "feel unmotivated",
+          "variants": [
+            "unmotivated",
+            "no motivation",
+            "don t want to do anything"
+          ],
+          "note": "Lack of drive or interest in activities."
+        },
+        {
+          "canonical": "feel lonely",
+          "variants": [
+            "lonely",
+            "alone"
+          ],
+          "note": "Sense of social isolation or lack of connection."
+        },
+        {
+          "canonical": "feel supported",
+          "variants": [
+            "supported",
+            "feel supported"
+          ],
+          "note": "Feeling backed up or understood by others."
+        },
+        {
+          "canonical": "feel unsupported",
+          "variants": [
+            "unsupported",
+            "no support"
+          ],
+          "note": "Feeling abandoned or not helped by others."
+        },
+        {
+          "canonical": "feel confused",
+          "variants": [
+            "confused",
+            "don t understand",
+            "no idea"
+          ],
+          "note": "Uncertainty or lack of clarity about what is happening."
+        },
+        {
+          "canonical": "feel grateful",
+          "variants": [
+            "thank",
+            "thanks",
+            "thank you"
+          ],
+          "note": "Appreciation or gratitude toward others."
+        },
+        {
+          "canonical": "feel embarrassed",
+          "variants": [
+            "embarrassed",
+            "embarrassing"
+          ],
+          "note": "Self conscious discomfort about how one appears to others."
+        },
+        {
+          "canonical": "feel scared",
+          "variants": [
+            "scared",
+            "afraid",
+            "fear"
+          ],
+          "note": "Fearful anticipation of harm or negative outcomes."
+        },
+        {
+          "canonical": "feel hopeful",
+          "variants": [
+            "hopeful",
+            "have hope"
+          ],
+          "note": "Optimism or positive expectation about the future."
+        },
+        {
+          "canonical": "feel hopeless",
+          "variants": [
+            "hopeless",
+            "no hope"
+          ],
+          "note": "Belief that improvement is unlikely or impossible."
+        },
+        {
+          "canonical": "feel annoyed",
+          "variants": [
+            "annoyed",
+            "irritated"
+          ],
+          "note": "Mild anger or frustration with people or situations."
+        },
+        {
+          "canonical": "feel proud",
+          "variants": [
+            "proud",
+            "proud of"
+          ],
+          "note": "Satisfaction with one’s own or others’ achievements."
+        },
+        {
+          "canonical": "feel ashamed",
+          "variants": [
+            "ashamed",
+            "shame"
+          ],
+          "note": "Painful self evaluation tied to perceived moral failure."
+        },
+        {
+          "canonical": "feel exhausted",
+          "variants": [
+            "exhausted",
+            "drained"
+          ],
+          "note": "Extreme tiredness, both physical and mental."
+        },
+        {
+          "canonical": "feel low energy",
+          "variants": [
+            "low energy",
+            "no energy"
+          ],
+          "note": "Subjective sense of lacking energy to act."
+        },
+        {
+          "canonical": "feel physical discomfort",
+          "variants": [
+            "pain",
+            "hurt",
+            "uncomfortable"
+          ],
+          "note": "Bodily sensations of pain or unease."
+        },
+        {
+          "canonical": "feel mental fog",
+          "variants": [
+            "brain fog",
+            "foggy",
+            "can t focus"
+          ],
+          "note": "Subjective cognitive cloudiness or difficulty thinking."
+        },
+        {
+          "canonical": "feel focused",
+          "variants": [
+            "focused",
+            "in the zone"
+          ],
+          "note": "Sense of concentration and mental clarity."
+        },
+        {
+          "canonical": "feel distracted",
+          "variants": [
+            "distracted",
+            "can t focus"
+          ],
+          "note": "Difficulty maintaining attention on tasks."
+        },
+        {
+          "canonical": "feel relaxed",
+          "variants": [
+            "relaxed",
+            "calm"
+          ],
+          "note": "Low arousal, peaceful emotional state."
+        },
+        {
+          "canonical": "feel tense",
+          "variants": [
+            "tense",
+            "on edge"
+          ],
+          "note": "High arousal, keyed up emotional state."
+        },
+        {
+          "canonical": "feel satisfied",
+          "variants": [
+            "satisfied",
+            "content"
+          ],
+          "note": "Feeling that needs or expectations are met."
+        },
+        {
+          "canonical": "feel disappointed",
+          "variants": [
+            "disappointed",
+            "let down"
+          ],
+          "note": "Sadness when expectations are not met."
+        },
+        {
+          "canonical": "feel surprised",
+          "variants": [
+            "surprised",
+            "shocked"
+          ],
+          "note": "Emotional reaction to unexpected events."
+        },
+        {
+          "canonical": "feel bored",
+          "variants": [
+            "bored",
+            "boredom"
+          ],
+          "note": "Lack of interest or stimulation."
+        },
+        {
+          "canonical": "feel nervous",
+          "variants": [
+            "nervous",
+            "on edge"
+          ],
+          "note": "Jittery anticipation, often before events or conversations."
+        },
+        {
+          "canonical": "feel secure",
+          "variants": [
+            "secure",
+            "safe"
+          ],
+          "note": "Feeling protected and not threatened."
+        },
+        {
+          "canonical": "feel unsafe",
+          "variants": [
+            "unsafe",
+            "in danger"
+          ],
+          "note": "Perception of threat or risk."
+        },
+        {
+          "canonical": "feel resentment",
+          "variants": [
+            "resentful",
+            "resentment"
+          ],
+          "note": "Lingering anger about perceived unfairness."
+        },
+        {
+          "canonical": "feel empathy",
+          "variants": [
+            "feel for them",
+            "i feel for you"
+          ],
+          "note": "Emotional resonance with another’s experience."
+        },
+        {
+          "canonical": "feel detached",
+          "variants": [
+            "numb",
+            "detached"
+          ],
+          "note": "Emotional blunting or disconnection."
+        },
+        {
+          "canonical": "feel confused about health",
+          "variants": [
+            "feel weird",
+            "feel off"
+          ],
+          "note": "Vague unease about bodily or mental state."
+        },
+        {
+          "canonical": "feel hungry",
+          "variants": [
+            "hungry",
+            "starving"
+          ],
+          "note": "Subjective sensation of needing food."
+        },
+        {
+          "canonical": "feel full",
+          "variants": [
+            "full",
+            "stuffed"
+          ],
+          "note": "Sensation of satiety after eating."
+        },
+        {
+          "canonical": "feel guilty as parent",
+          "variants": [
+            "mom guilt",
+            "dad guilt"
+          ],
+          "note": "Parental guilt about perceived shortcomings."
+        },
+        {
+          "canonical": "feel judged",
+          "variants": [
+            "judged",
+            "feel judged"
+          ],
+          "note": "Sense that others are negatively evaluating you."
+        },
+        {
+          "canonical": "feel validated",
+          "variants": [
+            "validated",
+            "seen",
+            "heard"
+          ],
+          "note": "Feeling understood and accepted by others."
+        },
+        {
+          "canonical": "feel confused by advice",
+          "variants": [
+            "overwhelmed by advice",
+            "too much advice"
+          ],
+          "note": "Emotional reaction to conflicting or abundant guidance."
+        }
+      ]
+    },
+    {
+      "name": "behavior",
+      "keywords": [
+        {
+          "canonical": "sleeping late",
+          "variants": [
+            "sleep late",
+            "stay up late",
+            "late night"
+          ],
+          "note": "Habit of going to bed or sleeping much later than typical."
+        },
+        {
+          "canonical": "irregular sleep schedule",
+          "variants": [
+            "bad sleep",
+            "sleep issues",
+            "sleep problems"
+          ],
+          "note": "Inconsistent or poor quality sleep patterns."
+        },
+        {
+          "canonical": "napping habit",
+          "variants": [
+            "nap",
+            "naps",
+            "taking naps"
+          ],
+          "note": "Regular daytime sleeping or dozing."
+        },
+        {
+          "canonical": "drinking coffee daily",
+          "variants": [
+            "coffee every day",
+            "morning coffee"
+          ],
+          "note": "Routine caffeine consumption as part of daily life."
+        },
+        {
+          "canonical": "high caffeine intake",
+          "variants": [
+            "too much caffeine",
+            "lots of coffee"
+          ],
+          "note": "Frequent or heavy use of caffeinated drinks."
+        },
+        {
+          "canonical": "skipping meals",
+          "variants": [
+            "skip lunch",
+            "skip meals"
+          ],
+          "note": "Regularly not eating at typical mealtimes."
+        },
+        {
+          "canonical": "irregular eating",
+          "variants": [
+            "bad eating",
+            "eating late",
+            "random meals"
+          ],
+          "note": "Inconsistent timing or pattern of food intake."
+        },
+        {
+          "canonical": "eating junk food",
+          "variants": [
+            "bad food",
+            "unhealthy food"
+          ],
+          "note": "Habitual consumption of low nutrient, high sugar or fat foods."
+        },
+        {
+          "canonical": "drinking low water",
+          "variants": [
+            "don t drink water",
+            "little water"
+          ],
+          "note": "Habit of low hydration across the day."
+        },
+        {
+          "canonical": "desk sitting lifestyle",
+          "variants": [
+            "desk job",
+            "sit at desk"
+          ],
+          "note": "Sedentary work pattern with long sitting periods."
+        },
+        {
+          "canonical": "sedentary lifestyle",
+          "variants": [
+            "don t exercise",
+            "no exercise"
+          ],
+          "note": "Low physical activity as a general pattern."
+        },
+        {
+          "canonical": "gaming habit",
+          "variants": [
+            "game",
+            "games",
+            "playing games"
+          ],
+          "note": "Frequent video game playing as a leisure activity."
+        },
+        {
+          "canonical": "phone scrolling",
+          "variants": [
+            "on phone",
+            "scrolling phone"
+          ],
+          "note": "Habitual smartphone use, often passive browsing."
+        },
+        {
+          "canonical": "reddit browsing",
+          "variants": [
+            "on reddit",
+            "scrolling reddit"
+          ],
+          "note": "Frequent use of Reddit as a routine activity."
+        },
+        {
+          "canonical": "working long hours",
+          "variants": [
+            "long hours",
+            "work all day"
+          ],
+          "note": "Extended workdays beyond typical schedules."
+        },
+        {
+          "canonical": "bringing work home",
+          "variants": [
+            "work from home",
+            "working at home"
+          ],
+          "note": "Blurring boundaries between work and home life."
+        },
+        {
+          "canonical": "procrastination habit",
+          "variants": [
+            "put off",
+            "keep putting off"
+          ],
+          "note": "Repeatedly delaying tasks despite intentions."
+        },
+        {
+          "canonical": "doomscrolling",
+          "variants": [
+            "scrolling",
+            "scroll social media"
+          ],
+          "note": "Extended negative news or content consumption online."
+        },
+        {
+          "canonical": "staying in bed",
+          "variants": [
+            "stay in bed",
+            "lying in bed"
+          ],
+          "note": "Spending long periods in bed awake."
+        },
+        {
+          "canonical": "snacking often",
+          "variants": [
+            "snacking",
+            "eat snacks"
+          ],
+          "note": "Frequent small eating between meals."
+        },
+        {
+          "canonical": "skipping breaks",
+          "variants": [
+            "no breaks",
+            "work without break"
+          ],
+          "note": "Working or focusing for long periods without rest."
+        },
+        {
+          "canonical": "overworking",
+          "variants": [
+            "work too much",
+            "workaholic"
+          ],
+          "note": "Chronic excessive work beyond healthy limits."
+        },
+        {
+          "canonical": "avoiding doctor",
+          "variants": [
+            "don t see doctor",
+            "avoid doctor"
+          ],
+          "note": "Pattern of not seeking medical evaluation when needed."
+        },
+        {
+          "canonical": "complaining online",
+          "variants": [
+            "ranting",
+            "venting"
+          ],
+          "note": "Using online spaces to express frustration regularly."
+        },
+        {
+          "canonical": "arguing in comments",
+          "variants": [
+            "argue in comments",
+            "fighting in comments"
+          ],
+          "note": "Frequent engagement in online disputes."
+        },
+        {
+          "canonical": "late eating",
+          "variants": [
+            "late dinner",
+            "eat at night"
+          ],
+          "note": "Regularly having meals late in the evening or night."
+        },
+        {
+          "canonical": "snacking at desk",
+          "variants": [
+            "desk snacks",
+            "eat at desk"
+          ],
+          "note": "Eating while working at a desk as a routine."
+        },
+        {
+          "canonical": "multitasking",
+          "variants": [
+            "do many things",
+            "juggling tasks"
+          ],
+          "note": "Habit of handling multiple tasks at once."
+        },
+        {
+          "canonical": "checking phone at night",
+          "variants": [
+            "phone in bed",
+            "scroll before sleep"
+          ],
+          "note": "Nighttime phone use that may affect sleep."
+        },
+        {
+          "canonical": "ignoring fatigue",
+          "variants": [
+            "push through tired",
+            "keep going tired"
+          ],
+          "note": "Continuing activity despite feeling very tired."
+        },
+        {
+          "canonical": "constant caregiving",
+          "variants": [
+            "always with kids",
+            "always with baby"
+          ],
+          "note": "Ongoing child or family care with little personal downtime."
+        },
+        {
+          "canonical": "eating at desk",
+          "variants": [
+            "lunch at desk",
+            "eat while working"
+          ],
+          "note": "Combining meals with work tasks habitually."
+        },
+        {
+          "canonical": "irregular work schedule",
+          "variants": [
+            "shift work",
+            "weird hours"
+          ],
+          "note": "Non standard or changing work hours across days."
+        },
+        {
+          "canonical": "staying indoors",
+          "variants": [
+            "never go outside",
+            "inside all day"
+          ],
+          "note": "Spending most time inside, limited outdoor exposure."
+        },
+        {
+          "canonical": "frequent apologizing",
+          "variants": [
+            "sorry a lot",
+            "always sorry"
+          ],
+          "note": "Habit of apologizing even when not necessary."
+        },
+        {
+          "canonical": "constant checking",
+          "variants": [
+            "check constantly",
+            "keep checking"
+          ],
+          "note": "Repetitive checking of messages, tasks, or status."
+        },
+        {
+          "canonical": "ignoring hunger",
+          "variants": [
+            "forget to eat",
+            "don t eat all day"
+          ],
+          "note": "Not responding to hunger cues due to busyness or habit."
+        },
+        {
+          "canonical": "eating when stressed",
+          "variants": [
+            "stress eating",
+            "eat from stress"
+          ],
+          "note": "Using food as a coping mechanism for stress."
+        },
+        {
+          "canonical": "drinking sugary drinks",
+          "variants": [
+            "sugary drinks",
+            "soda",
+            "energy drinks"
+          ],
+          "note": "Regular consumption of high sugar beverages."
+        },
+        {
+          "canonical": "constant mental planning",
+          "variants": [
+            "always thinking",
+            "planning all the time"
+          ],
+          "note": "Ongoing internal planning and worrying as a pattern."
+        },
+        {
+          "canonical": "working from bed",
+          "variants": [
+            "laptop in bed",
+            "work in bed"
+          ],
+          "note": "Using bed as workspace regularly."
+        },
+        {
+          "canonical": "staying up gaming",
+          "variants": [
+            "game all night",
+            "late night gaming"
+          ],
+          "note": "Playing games late into the night as a routine."
+        },
+        {
+          "canonical": "ignoring breaks at work",
+          "variants": [
+            "skip lunch break",
+            "no work breaks"
+          ],
+          "note": "Not taking scheduled or needed rest during work."
+        },
+        {
+          "canonical": "constant social media use",
+          "variants": [
+            "always online",
+            "on social media"
+          ],
+          "note": "High frequency social media engagement throughout day."
+        },
+        {
+          "canonical": "eating fast",
+          "variants": [
+            "quick lunch",
+            "eat quickly"
+          ],
+          "note": "Habit of rapid eating, often due to time pressure."
+        },
+        {
+          "canonical": "working while exhausted",
+          "variants": [
+            "work when exhausted",
+            "still work tired"
+          ],
+          "note": "Continuing work despite severe fatigue."
+        },
+        {
+          "canonical": "ignoring health issues",
+          "variants": [
+            "ignore symptoms",
+            "brush off health"
+          ],
+          "note": "Not addressing or investigating recurring health problems."
+        },
+        {
+          "canonical": "using caffeine to cope",
+          "variants": [
+            "coffee to function",
+            "energy drinks to cope"
+          ],
+          "note": "Relying on caffeine as primary strategy for low energy."
+        },
+        {
+          "canonical": "late night snacking",
+          "variants": [
+            "snack at night",
+            "midnight snacks"
+          ],
+          "note": "Eating snacks late at night as a habit."
+        },
+        {
+          "canonical": "working through lunch",
+          "variants": [
+            "work at lunch",
+            "no lunch break"
+          ],
+          "note": "Using lunch period for work instead of rest or eating."
+        },
+        {
+          "canonical": "constant caretaking of baby",
+          "variants": [
+            "with baby all day",
+            "baby care all day"
+          ],
+          "note": "Continuous infant care with minimal personal time."
+        },
+        {
+          "canonical": "using phone at desk",
+          "variants": [
+            "phone at work",
+            "scroll at desk"
+          ],
+          "note": "Frequent phone use during work hours."
+        },
+        {
+          "canonical": "staying in one room",
+          "variants": [
+            "in room all day",
+            "stay in room"
+          ],
+          "note": "Limited movement within home or workspace."
+        },
+        {
+          "canonical": "ignoring need for rest",
+          "variants": [
+            "never rest",
+            "don t rest"
+          ],
+          "note": "Pattern of not allowing oneself downtime."
+        }
+      ]
+    },
+    {
+      "name": "action",
+      "keywords": [
+        {
+          "canonical": "take a nap",
+          "variants": [
+            "took a nap",
+            "taking a nap",
+            "have a nap"
+          ],
+          "note": "Concrete act of sleeping briefly during the day."
+        },
+        {
+          "canonical": "drink coffee",
+          "variants": [
+            "drank coffee",
+            "having coffee",
+            "get coffee"
+          ],
+          "note": "Consuming coffee as an immediate action."
+        },
+        {
+          "canonical": "drink water",
+          "variants": [
+            "drink some water",
+            "get water",
+            "have water"
+          ],
+          "note": "Hydrating with water intentionally."
+        },
+        {
+          "canonical": "eat lunch",
+          "variants": [
+            "have lunch",
+            "grab lunch",
+            "eating lunch"
+          ],
+          "note": "Taking a midday meal."
+        },
+        {
+          "canonical": "eat food",
+          "variants": [
+            "eat",
+            "eating",
+            "have something to eat"
+          ],
+          "note": "Consuming food in response to hunger or schedule."
+        },
+        {
+          "canonical": "go for a walk",
+          "variants": [
+            "walk",
+            "went for a walk",
+            "take a walk"
+          ],
+          "note": "Walking outside or around as a deliberate activity."
+        },
+        {
+          "canonical": "go to bed",
+          "variants": [
+            "went to bed",
+            "go to sleep"
+          ],
+          "note": "Ending the day by lying down to sleep."
+        },
+        {
+          "canonical": "see a doctor",
+          "variants": [
+            "go to doctor",
+            "went to doctor",
+            "talk to doctor"
+          ],
+          "note": "Seeking medical evaluation or advice."
+        },
+        {
+          "canonical": "talk to someone",
+          "variants": [
+            "talk",
+            "talking",
+            "talked to"
+          ],
+          "note": "Engaging in conversation for support or problem solving."
+        },
+        {
+          "canonical": "ask for advice",
+          "variants": [
+            "ask advice",
+            "asked for advice"
+          ],
+          "note": "Requesting guidance from others."
+        },
+        {
+          "canonical": "read a post",
+          "variants": [
+            "read",
+            "reading",
+            "read this post"
+          ],
+          "note": "Consuming written content online or elsewhere."
+        },
+        {
+          "canonical": "write a post",
+          "variants": [
+            "post",
+            "posting",
+            "made a post"
+          ],
+          "note": "Creating and sharing content online."
+        },
+        {
+          "canonical": "leave a comment",
+          "variants": [
+            "comment",
+            "commented",
+            "comments"
+          ],
+          "note": "Responding to content with written feedback."
+        },
+        {
+          "canonical": "check something",
+          "variants": [
+            "check",
+            "checking",
+            "checked"
+          ],
+          "note": "Verifying or looking up information or status."
+        },
+        {
+          "canonical": "start something new",
+          "variants": [
+            "start",
+            "started",
+            "starting"
+          ],
+          "note": "Initiating a new activity, habit, or project."
+        },
+        {
+          "canonical": "stop doing something",
+          "variants": [
+            "stop",
+            "stopped",
+            "quit"
+          ],
+          "note": "Ceasing a behavior or activity."
+        },
+        {
+          "canonical": "take a break",
+          "variants": [
+            "take a rest",
+            "rest",
+            "break"
+          ],
+          "note": "Pausing work or activity to recover."
+        },
+        {
+          "canonical": "go home",
+          "variants": [
+            "went home",
+            "come home"
+          ],
+          "note": "Returning to one’s residence."
+        },
+        {
+          "canonical": "leave situation",
+          "variants": [
+            "leave",
+            "left",
+            "walk away"
+          ],
+          "note": "Physically or socially exiting a problematic context."
+        },
+        {
+          "canonical": "pay money",
+          "variants": [
+            "pay",
+            "paid"
+          ],
+          "note": "Making a financial transaction or fulfilling payment."
+        },
+        {
+          "canonical": "send message",
+          "variants": [
+            "send",
+            "sent",
+            "dm"
+          ],
+          "note": "Communicating via text, email, or messaging app."
+        },
+        {
+          "canonical": "watch movie or video",
+          "variants": [
+            "watch",
+            "watched",
+            "movie",
+            "video"
+          ],
+          "note": "Viewing entertainment or informational media."
+        },
+        {
+          "canonical": "run errands",
+          "variants": [
+            "run",
+            "running errands"
+          ],
+          "note": "Going out to complete tasks like shopping or appointments."
+        },
+        {
+          "canonical": "take medication",
+          "variants": [
+            "take meds",
+            "took meds"
+          ],
+          "note": "Ingesting prescribed or over the counter medicine."
+        },
+        {
+          "canonical": "call someone",
+          "variants": [
+            "called",
+            "call",
+            "phone call"
+          ],
+          "note": "Using phone to speak with another person."
+        },
+        {
+          "canonical": "update others",
+          "variants": [
+            "update",
+            "updated",
+            "post an update"
+          ],
+          "note": "Informing others about new developments."
+        },
+        {
+          "canonical": "share story",
+          "variants": [
+            "share",
+            "sharing",
+            "shared my story"
+          ],
+          "note": "Telling personal experiences to others."
+        },
+        {
+          "canonical": "ask a question",
+          "variants": [
+            "ask",
+            "asked",
+            "asking"
+          ],
+          "note": "Seeking information or clarification."
+        },
+        {
+          "canonical": "eat breakfast",
+          "variants": [
+            "have breakfast",
+            "grab breakfast"
+          ],
+          "note": "Morning meal consumption."
+        },
+        {
+          "canonical": "take a shower",
+          "variants": [
+            "shower",
+            "take shower"
+          ],
+          "note": "Personal hygiene action that can affect alertness."
+        },
+        {
+          "canonical": "drive a car",
+          "variants": [
+            "car",
+            "drive",
+            "drove"
+          ],
+          "note": "Operating a vehicle to travel."
+        },
+        {
+          "canonical": "go to work",
+          "variants": [
+            "went to work",
+            "head to work"
+          ],
+          "note": "Leaving home to attend job duties."
+        },
+        {
+          "canonical": "change job",
+          "variants": [
+            "change jobs",
+            "quit job"
+          ],
+          "note": "Switching employment or leaving a position."
+        },
+        {
+          "canonical": "schedule appointment",
+          "variants": [
+            "make appointment",
+            "book appointment"
+          ],
+          "note": "Arranging a future meeting with a professional."
+        },
+        {
+          "canonical": "write apology",
+          "variants": [
+            "apologize",
+            "say sorry"
+          ],
+          "note": "Expressing regret to someone."
+        },
+        {
+          "canonical": "argue with someone",
+          "variants": [
+            "fight",
+            "fighting",
+            "argue"
+          ],
+          "note": "Engaging in verbal conflict."
+        },
+        {
+          "canonical": "help someone",
+          "variants": [
+            "help",
+            "helped",
+            "helping"
+          ],
+          "note": "Providing assistance or support."
+        },
+        {
+          "canonical": "support someone",
+          "variants": [
+            "support",
+            "supported",
+            "supporting"
+          ],
+          "note": "Backing someone emotionally or practically."
+        },
+        {
+          "canonical": "eat healthier food",
+          "variants": [
+            "eat healthy",
+            "change diet"
+          ],
+          "note": "Choosing more nutritious options intentionally."
+        },
+        {
+          "canonical": "reduce caffeine",
+          "variants": [
+            "cut caffeine",
+            "less coffee"
+          ],
+          "note": "Lowering caffeine intake deliberately."
+        },
+        {
+          "canonical": "take a walk at work",
+          "variants": [
+            "walk at lunch",
+            "walk around office"
+          ],
+          "note": "Short walking breaks during workday."
+        },
+        {
+          "canonical": "open window",
+          "variants": [
+            "open the window"
+          ],
+          "note": "Letting in fresh air or light."
+        },
+        {
+          "canonical": "change desk setup",
+          "variants": [
+            "move desk",
+            "rearrange desk"
+          ],
+          "note": "Adjusting workspace arrangement."
+        },
+        {
+          "canonical": "track symptoms",
+          "variants": [
+            "track",
+            "tracking symptoms"
+          ],
+          "note": "Recording experiences like fatigue or mood over time."
+        },
+        {
+          "canonical": "set alarm",
+          "variants": [
+            "set an alarm",
+            "alarm for morning"
+          ],
+          "note": "Using alarms to manage wake or task times."
+        },
+        {
+          "canonical": "plan the day",
+          "variants": [
+            "plan",
+            "make a plan"
+          ],
+          "note": "Structuring tasks and time ahead of the day."
+        },
+        {
+          "canonical": "take time off",
+          "variants": [
+            "day off",
+            "time off work"
+          ],
+          "note": "Temporarily stepping away from job duties."
+        },
+        {
+          "canonical": "go outside",
+          "variants": [
+            "step outside",
+            "go out"
+          ],
+          "note": "Leaving indoor environment for fresh air or light."
+        },
+        {
+          "canonical": "limit screen time",
+          "variants": [
+            "turn off phone",
+            "log off"
+          ],
+          "note": "Reducing time spent on digital devices."
+        },
+        {
+          "canonical": "set boundaries",
+          "variants": [
+            "set boundary",
+            "tell them no"
+          ],
+          "note": "Communicating limits on what one will do or accept."
+        },
+        {
+          "canonical": "delegate tasks",
+          "variants": [
+            "ask for help with tasks",
+            "hand off tasks"
+          ],
+          "note": "Assigning responsibilities to others."
+        },
+        {
+          "canonical": "write list",
+          "variants": [
+            "make a list",
+            "to do list"
+          ],
+          "note": "Externalizing tasks or thoughts on paper or app."
+        },
+        {
+          "canonical": "take deep breath",
+          "variants": [
+            "deep breath",
+            "breathe"
+          ],
+          "note": "Intentional breathing to calm or reset."
+        },
+        {
+          "canonical": "stretch body",
+          "variants": [
+            "stretch",
+            "do stretches"
+          ],
+          "note": "Physical stretching to relieve tension."
+        },
+        {
+          "canonical": "change room",
+          "variants": [
+            "go to another room",
+            "leave room"
+          ],
+          "note": "Moving to a different physical space."
+        }
+      ]
+    },
+    {
+      "name": "solution_principle",
+      "keywords": [
+        {
+          "canonical": "improve sleep quality",
+          "variants": [
+            "better sleep",
+            "fix sleep",
+            "sleep hygiene"
+          ],
+          "note": "Using consistent routines and environment to enhance restorative sleep."
+        },
+        {
+          "canonical": "consistent sleep schedule",
+          "variants": [
+            "regular sleep",
+            "same bedtime"
+          ],
+          "note": "Going to bed and waking up at similar times to stabilize circadian rhythm."
+        },
+        {
+          "canonical": "stabilize blood sugar",
+          "variants": [
+            "blood sugar stability",
+            "avoid sugar crash"
+          ],
+          "note": "Using regular, balanced meals to prevent energy crashes."
+        },
+        {
+          "canonical": "manage caffeine tolerance",
+          "variants": [
+            "caffeine tolerance",
+            "reset caffeine"
+          ],
+          "note": "Limiting or cycling caffeine to maintain its effectiveness and reduce crashes."
+        },
+        {
+          "canonical": "stay hydrated",
+          "variants": [
+            "proper hydration",
+            "drink enough water"
+          ],
+          "note": "Maintaining adequate fluid intake to support energy and cognition."
+        },
+        {
+          "canonical": "take short naps",
+          "variants": [
+            "power nap",
+            "20 minute nap"
+          ],
+          "note": "Using brief daytime sleep to restore alertness without grogginess."
+        },
+        {
+          "canonical": "use movement breaks",
+          "variants": [
+            "movement breaks",
+            "walk breaks"
+          ],
+          "note": "Short bouts of physical activity to boost circulation and energy."
+        },
+        {
+          "canonical": "expose to daylight",
+          "variants": [
+            "sunlight exposure",
+            "natural light"
+          ],
+          "note": "Using light to anchor circadian rhythm and improve alertness."
+        },
+        {
+          "canonical": "improve diet quality",
+          "variants": [
+            "healthier diet",
+            "better food choices"
+          ],
+          "note": "Choosing nutrient dense foods to support stable energy and mood."
+        },
+        {
+          "canonical": "regular meal timing",
+          "variants": [
+            "consistent meals",
+            "don t skip meals"
+          ],
+          "note": "Eating at predictable times to avoid energy dips."
+        },
+        {
+          "canonical": "reduce sugar intake",
+          "variants": [
+            "less sugar",
+            "cut sugar"
+          ],
+          "note": "Lowering simple sugars to prevent spikes and crashes."
+        },
+        {
+          "canonical": "ergonomic desk setup",
+          "variants": [
+            "better desk setup",
+            "ergonomics"
+          ],
+          "note": "Optimizing posture and workspace to reduce physical strain and fatigue."
+        },
+        {
+          "canonical": "take regular breaks",
+          "variants": [
+            "pomodoro",
+            "scheduled breaks"
+          ],
+          "note": "Structuring work with periodic rests to maintain performance."
+        },
+        {
+          "canonical": "manage stress",
+          "variants": [
+            "stress management",
+            "reduce stress"
+          ],
+          "note": "Using coping strategies to lower chronic stress load."
+        },
+        {
+          "canonical": "prioritize rest",
+          "variants": [
+            "rest more",
+            "allow rest"
+          ],
+          "note": "Intentionally scheduling downtime to recover energy."
+        },
+        {
+          "canonical": "address mental health",
+          "variants": [
+            "therapy",
+            "treat mental health"
+          ],
+          "note": "Using professional or structured support for psychological issues."
+        },
+        {
+          "canonical": "treat underlying condition",
+          "variants": [
+            "rule out medical issues",
+            "check health"
+          ],
+          "note": "Investigating and managing medical causes of fatigue or symptoms."
+        },
+        {
+          "canonical": "optimize work life balance",
+          "variants": [
+            "better work life balance",
+            "set work limits"
+          ],
+          "note": "Adjusting workload and boundaries to prevent burnout."
+        },
+        {
+          "canonical": "time blocking tasks",
+          "variants": [
+            "time blocking",
+            "schedule blocks"
+          ],
+          "note": "Allocating specific time slots for focused work to reduce overwhelm."
+        },
+        {
+          "canonical": "reduce screen time at night",
+          "variants": [
+            "no screens before bed",
+            "limit phone at night"
+          ],
+          "note": "Lowering evening light and stimulation to improve sleep onset."
+        },
+        {
+          "canonical": "use routines",
+          "variants": [
+            "daily routine",
+            "consistent routine"
+          ],
+          "note": "Creating predictable patterns to reduce decision fatigue."
+        },
+        {
+          "canonical": "delegate responsibilities",
+          "variants": [
+            "share load",
+            "split chores"
+          ],
+          "note": "Distributing tasks to reduce individual burden and fatigue."
+        },
+        {
+          "canonical": "set boundaries with others",
+          "variants": [
+            "say no",
+            "limit demands"
+          ],
+          "note": "Protecting time and energy by limiting obligations."
+        },
+        {
+          "canonical": "optimize caffeine timing",
+          "variants": [
+            "caffeine timing",
+            "coffee timing"
+          ],
+          "note": "Using caffeine earlier and strategically to avoid sleep disruption."
+        },
+        {
+          "canonical": "improve posture",
+          "variants": [
+            "better posture",
+            "sit properly"
+          ],
+          "note": "Aligning body to reduce muscular strain and headaches."
+        },
+        {
+          "canonical": "use checklists",
+          "variants": [
+            "to do lists",
+            "task lists"
+          ],
+          "note": "Externalizing tasks to reduce cognitive load and forgetfulness."
+        },
+        {
+          "canonical": "break tasks into chunks",
+          "variants": [
+            "smaller tasks",
+            "chunking tasks"
+          ],
+          "note": "Dividing work into manageable pieces to reduce overwhelm."
+        },
+        {
+          "canonical": "limit multitasking",
+          "variants": [
+            "single tasking",
+            "one thing at a time"
+          ],
+          "note": "Focusing on one task to improve efficiency and reduce fatigue."
+        },
+        {
+          "canonical": "use accountability",
+          "variants": [
+            "accountability partner",
+            "check in with someone"
+          ],
+          "note": "Leveraging social commitments to maintain habits."
+        },
+        {
+          "canonical": "optimize environment",
+          "variants": [
+            "better environment",
+            "change environment"
+          ],
+          "note": "Adjusting noise, light, and clutter to support focus and calm."
+        },
+        {
+          "canonical": "schedule self care",
+          "variants": [
+            "plan self care",
+            "self care routine"
+          ],
+          "note": "Intentionally planning restorative activities."
+        },
+        {
+          "canonical": "limit alcohol and drugs",
+          "variants": [
+            "cut alcohol",
+            "less drinking"
+          ],
+          "note": "Reducing substances that impair sleep and energy."
+        },
+        {
+          "canonical": "use light exercise",
+          "variants": [
+            "gentle exercise",
+            "light workouts"
+          ],
+          "note": "Incorporating mild activity to boost energy without overtaxing."
+        },
+        {
+          "canonical": "address adhd symptoms",
+          "variants": [
+            "adhd strategies",
+            "adhd treatment"
+          ],
+          "note": "Using structure, medication, or tools tailored to ADHD."
+        },
+        {
+          "canonical": "plan meals ahead",
+          "variants": [
+            "meal prep",
+            "plan meals"
+          ],
+          "note": "Preparing food in advance to ensure regular, balanced eating."
+        },
+        {
+          "canonical": "use alarms and reminders",
+          "variants": [
+            "reminder apps",
+            "phone reminders"
+          ],
+          "note": "External prompts to support memory and routines."
+        },
+        {
+          "canonical": "optimize childcare support",
+          "variants": [
+            "get childcare help",
+            "share baby care"
+          ],
+          "note": "Increasing support to reduce parental exhaustion."
+        },
+        {
+          "canonical": "improve communication",
+          "variants": [
+            "communicate needs",
+            "talk it out"
+          ],
+          "note": "Clear discussion to align expectations and reduce conflict."
+        },
+        {
+          "canonical": "reframe expectations",
+          "variants": [
+            "lower expectations",
+            "be realistic"
+          ],
+          "note": "Adjusting standards to reduce self imposed pressure."
+        },
+        {
+          "canonical": "practice relaxation techniques",
+          "variants": [
+            "breathing exercises",
+            "relaxation"
+          ],
+          "note": "Using methods like deep breathing to lower arousal."
+        },
+        {
+          "canonical": "schedule fun activities",
+          "variants": [
+            "plan fun",
+            "plan hobbies"
+          ],
+          "note": "Ensuring enjoyable activities to counter burnout."
+        },
+        {
+          "canonical": "optimize workload",
+          "variants": [
+            "reduce workload",
+            "reprioritize tasks"
+          ],
+          "note": "Adjusting task load to match capacity."
+        },
+        {
+          "canonical": "seek professional help",
+          "variants": [
+            "see specialist",
+            "consult professional"
+          ],
+          "note": "Engaging experts (medical, legal, financial) for complex issues."
+        },
+        {
+          "canonical": "use social support",
+          "variants": [
+            "lean on friends",
+            "family support"
+          ],
+          "note": "Relying on relationships for emotional and practical help."
+        },
+        {
+          "canonical": "track patterns over time",
+          "variants": [
+            "track over weeks",
+            "monitor patterns"
+          ],
+          "note": "Observing trends to identify triggers and effective changes."
+        },
+        {
+          "canonical": "optimize morning routine",
+          "variants": [
+            "better morning routine",
+            "structured morning"
+          ],
+          "note": "Designing mornings to set energy and focus for the day."
+        },
+        {
+          "canonical": "limit late night eating",
+          "variants": [
+            "no food late",
+            "stop eating at night"
+          ],
+          "note": "Avoiding late meals to improve sleep and digestion."
+        },
+        {
+          "canonical": "use boundaries with work tech",
+          "variants": [
+            "no work email at night",
+            "turn off work phone"
+          ],
+          "note": "Separating work communications from personal time."
+        },
+        {
+          "canonical": "optimize child sleep",
+          "variants": [
+            "baby sleep routine",
+            "kid bedtime routine"
+          ],
+          "note": "Improving children’s sleep to reduce parental night disruption."
+        },
+        {
+          "canonical": "plan recovery days",
+          "variants": [
+            "rest days",
+            "recovery days"
+          ],
+          "note": "Scheduling low demand days after intense periods."
+        },
+        {
+          "canonical": "use smaller caffeine doses",
+          "variants": [
+            "microdose caffeine",
+            "small coffees"
+          ],
+          "note": "Using smaller, spread out caffeine to avoid spikes."
+        },
+        {
+          "canonical": "improve office ergonomics",
+          "variants": [
+            "better office chair",
+            "monitor height"
+          ],
+          "note": "Adjusting office equipment to reduce physical fatigue."
+        },
+        {
+          "canonical": "optimize bedtime routine",
+          "variants": [
+            "wind down routine",
+            "night routine"
+          ],
+          "note": "Pre sleep habits that signal body to prepare for rest."
+        },
+        {
+          "canonical": "limit conflict exposure",
+          "variants": [
+            "avoid drama",
+            "mute toxic people"
+          ],
+          "note": "Reducing emotional drain from arguments or toxic interactions."
+        },
+        {
+          "canonical": "use structured work blocks",
+          "variants": [
+            "focus blocks",
+            "deep work blocks"
+          ],
+          "note": "Dedicated periods for concentrated work to reduce context switching."
+        },
+        {
+          "canonical": "adjust expectations with kids",
+          "variants": [
+            "age appropriate expectations",
+            "realistic kid expectations"
+          ],
+          "note": "Aligning demands on children with their developmental stage to reduce stress."
+        }
+      ]
+    }
+  ]
+}

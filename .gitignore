@@ -2,11 +2,13 @@
 __pycache__/
 *.pyc
 .DS_Store
-exports/
-*.csv
-*.csv.gz
-state.json
-seen_posts.txt
-seen_comments.txt
-todo_posts.jsonl
+
+# Export outputs:
+# - Commit metadata/state under exports/
+# - Do NOT commit CSV datasets
+exports/**/*.csv
+exports/**/*.csv.gz
+exports/**/seen_posts.txt
+exports/**/seen_comments.txt
+exports/**/todo_posts.jsonl
 

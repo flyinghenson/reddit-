@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "scene_id": "94f9772d",
+  "scene_description": "心理健康与情绪",
+  "updated_at_iso": "2026-02-11T09:16:30.512668+00:00",
+  "processed_post_ids": [],
+  "keyword_progress": {
+    "anxiety": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "depression": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "stress": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "burnout": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "panic attacks": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "rumination": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "overthinking": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "emotional regulation": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "mood swings": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "irritability": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "therapy": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "CBT": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "mindfulness": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "meditation for anxiety": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "work stress": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "high functioning anxiety": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "imposter syndrome": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "social anxiety": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "loneliness": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "motivation loss": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "anhedonia": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "SSRI": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "SSRI side effects": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "antidepressants": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "ADHD anxiety": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "burnout recovery": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "how to stop worrying": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "coping strategies": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "self esteem": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "sleep and anxiety": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    }
+  }
+}

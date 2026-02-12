@@ -1,0 +1,26 @@
+{
+  "scene_id": "91babeaa",
+  "scene_name": "场景1_工作与生产力",
+  "scene_description": "工作与生产力",
+  "started_at_iso": "2026-02-11T09:34:45.258182+00:00",
+  "args": {
+    "scene": "工作与生产力",
+    "scene_file": null,
+    "keywords": "productivity",
+    "keywords_file": "",
+    "keyword_count": 30,
+    "target_posts": 50,
+    "max_pages_per_keyword": 2,
+    "time_range": "all",
+    "post_sort": "relevance",
+    "exact_phrase": false,
+    "comment_sorts": "best",
+    "expand_more": false,
+    "max_comment_posts": 3,
+    "min_post_votes": 0,
+    "min_post_comments": 0,
+    "output_dir": "",
+    "fresh": true,
+    "scene_name": "场景1_工作与生产力"
+  }
+}

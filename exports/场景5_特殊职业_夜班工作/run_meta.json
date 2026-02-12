@@ -1,0 +1,26 @@
+{
+  "scene_id": "90ddca53",
+  "scene_name": "场景5_特殊职业_夜班工作",
+  "scene_description": "特殊职业（如夜班工作）",
+  "started_at_iso": "2026-02-11T09:16:30.667339+00:00",
+  "args": {
+    "scene": "特殊职业（如夜班工作）",
+    "scene_file": null,
+    "keywords": "night shift,night shift fatigue,shift work,rotating shifts,shift work sleep disorder,sleep after night shift,staying awake night shift,staying alert night shift,night shift meal timing,night shift caffeine,caffeine night shift,napping night shift,circadian rhythm night shift,daytime sleep,blackout curtains day sleep,blue light night shift,shift worker health,shift worker burnout,night shift depression,night shift anxiety,nurse night shift,doctor night shift,factory night shift,24 hour shift fatigue,sleep schedule night shift,melatonin night shift,jet lag from shift work,night shift exercise,insomnia after shift work,night shift weight gain",
+    "keywords_file": "",
+    "keyword_count": 30,
+    "target_posts": 0,
+    "max_pages_per_keyword": 120,
+    "time_range": "all",
+    "post_sort": "relevance",
+    "exact_phrase": false,
+    "comment_sorts": "best,top",
+    "expand_more": true,
+    "max_comment_posts": 1000,
+    "min_post_votes": 0,
+    "min_post_comments": 0,
+    "output_dir": "",
+    "fresh": true,
+    "scene_name": "场景5_特殊职业_夜班工作"
+  }
+}

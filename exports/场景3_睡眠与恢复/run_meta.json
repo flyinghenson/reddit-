@@ -1,0 +1,26 @@
+{
+  "scene_id": "c7f7745b",
+  "scene_name": "场景3_睡眠与恢复",
+  "scene_description": "睡眠与恢复",
+  "started_at_iso": "2026-02-11T09:13:12.031727+00:00",
+  "args": {
+    "scene": "睡眠与恢复",
+    "scene_file": null,
+    "keywords": "sleep quality,improve sleep,insomnia,sleep maintenance insomnia,can't stay asleep,can't fall asleep,waking up tired,morning grogginess,sleep hygiene,sleep schedule,circadian rhythm,blue light sleep,melatonin,melatonin timing,magnesium for sleep,sleep apnea,snoring sleep apnea,restless sleep,vivid dreams tired,night sweats sleep,naps ruin sleep,sleep debt,how to wake up early,shift sleep schedule,stress insomnia,anxiety at night,sleep tracking,supplements for sleep,sleep and burnout,recovery sleep",
+    "keywords_file": "",
+    "keyword_count": 30,
+    "target_posts": 0,
+    "max_pages_per_keyword": 120,
+    "time_range": "all",
+    "post_sort": "relevance",
+    "exact_phrase": false,
+    "comment_sorts": "best,top",
+    "expand_more": true,
+    "max_comment_posts": 1000,
+    "min_post_votes": 0,
+    "min_post_comments": 0,
+    "output_dir": "",
+    "fresh": true,
+    "scene_name": "场景3_睡眠与恢复"
+  }
+}

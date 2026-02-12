@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "scene_id": "90ddca53",
+  "scene_description": "特殊职业（如夜班工作）",
+  "updated_at_iso": "2026-02-11T09:19:29.353597+00:00",
+  "processed_post_ids": [],
+  "keyword_progress": {
+    "night shift": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "night shift fatigue": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "shift work": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "rotating shifts": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "shift work sleep disorder": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "sleep after night shift": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "staying awake night shift": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "staying alert night shift": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "night shift meal timing": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "night shift caffeine": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "caffeine night shift": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "napping night shift": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "circadian rhythm night shift": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "daytime sleep": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "blackout curtains day sleep": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "blue light night shift": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "shift worker health": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "shift worker burnout": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "night shift depression": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "night shift anxiety": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "nurse night shift": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "doctor night shift": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "factory night shift": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "24 hour shift fatigue": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "sleep schedule night shift": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "melatonin night shift": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "jet lag from shift work": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "night shift exercise": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "insomnia after shift work": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    },
+    "night shift weight gain": {
+      "after": null,
+      "pages_fetched": 0,
+      "done": false
+    }
+  }
+}

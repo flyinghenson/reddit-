@@ -1,0 +1,26 @@
+{
+  "scene_id": "2266d199",
+  "scene_name": "场景6_慢性病或健康问题管理",
+  "scene_description": "慢性病或健康问题管理",
+  "started_at_iso": "2026-02-11T09:19:29.510043+00:00",
+  "args": {
+    "scene": "慢性病或健康问题管理",
+    "scene_file": null,
+    "keywords": "chronic fatigue,chronic fatigue syndrome,long covid,long covid fatigue,fibromyalgia,chronic pain,pain management,autoimmune disease fatigue,inflammation,hypothyroid fatigue,thyroid fatigue,diabetes management,blood sugar crash,blood sugar spikes,insulin resistance fatigue,IBS,IBS management,migraine,migraine triggers,hypertension lifestyle,high blood pressure lifestyle,POTS fatigue,brain fog chronic illness,managing chronic illness,managing symptoms while working,fatigue and sleep,pain and sleep,flare up management,medical gaslighting chronic illness,chronic illness support",
+    "keywords_file": "",
+    "keyword_count": 30,
+    "target_posts": 0,
+    "max_pages_per_keyword": 120,
+    "time_range": "all",
+    "post_sort": "relevance",
+    "exact_phrase": false,
+    "comment_sorts": "best,top",
+    "expand_more": true,
+    "max_comment_posts": 1000,
+    "min_post_votes": 0,
+    "min_post_comments": 0,
+    "output_dir": "",
+    "fresh": true,
+    "scene_name": "场景6_慢性病或健康问题管理"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "scene_id": "baa03354",
+  "scene_name": "场景2_运动与体能训练",
+  "scene_description": "运动与体能训练",
+  "started_at_iso": "2026-02-11T09:12:13.256411+00:00",
+  "args": {
+    "scene": "运动与体能训练",
+    "scene_file": null,
+    "keywords": "workout recovery,post workout recovery,muscle soreness,DOMS recovery,strength training,hypertrophy,cardio endurance,improve endurance,running stamina,zone 2 training,HIIT,overtraining,training fatigue,lifting plateau,progressive overload,rest day,deload week,injury prevention,knee pain running,shoulder pain lifting,mobility routine,stretching vs mobility,warm up routine,protein intake,creatine,electrolytes workout,pre workout,pre workout without caffeine,sleep and recovery,heart rate training",
+    "keywords_file": "",
+    "keyword_count": 30,
+    "target_posts": 0,
+    "max_pages_per_keyword": 120,
+    "time_range": "all",
+    "post_sort": "relevance",
+    "exact_phrase": false,
+    "comment_sorts": "best,top",
+    "expand_more": true,
+    "max_comment_posts": 1000,
+    "min_post_votes": 0,
+    "min_post_comments": 0,
+    "output_dir": "",
+    "fresh": true,
+    "scene_name": "场景2_运动与体能训练"
+  }
+}

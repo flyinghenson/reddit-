@@ -1,0 +1,23 @@
+{
+  "scene_id": "fb1116cf",
+  "started_at_iso": "2026-02-11T03:26:40.438527+00:00",
+  "args": {
+    "scene": "日常工作与全天能量维持（偏向精英人群）",
+    "scene_file": null,
+    "keywords": "afternoon slump work,midday crash work,post lunch crash,meeting fatigue,back to back meetings,stay energized workday,energy during workday,sustained energy work,brain fog at work,mental fatigue work,staying sharp meetings,executive decision fatigue,decision fatigue work,high stress job fatigue,long hours fatigue,high pressure job burnout,consulting burnout,investment banking long hours,law firm burnout,doctor shift fatigue,software engineer burnout,caffeine crash,coffee crash,reduce caffeine work,energy without caffeine,sleep optimization productivity,sleep deprivation work performance,workday nutrition energy,high protein lunch energy,blood sugar crash lunch,hydration fatigue work,walking breaks energy,standing desk fatigue,burnout recovery while working",
+    "keywords_file": "",
+    "keyword_count": 30,
+    "target_posts": 0,
+    "max_pages_per_keyword": 120,
+    "time_range": "all",
+    "post_sort": "relevance",
+    "exact_phrase": false,
+    "comment_sorts": "best,top",
+    "expand_more": true,
+    "max_comment_posts": 0,
+    "min_post_votes": 0,
+    "min_post_comments": 0,
+    "output_dir": "",
+    "fresh": true
+  }
+}
